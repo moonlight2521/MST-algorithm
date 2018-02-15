@@ -3,10 +3,8 @@ import java.util.Scanner;
 
 /**
  * Created by Zun Lin on 11/28/17.
- * CMSC 401
- * Assignment 4
  */
-public class cmsc401 {
+public class mst {
     public static void main(String[] args){
         int i, k, x, y;
         Scanner in = new Scanner(System.in);
